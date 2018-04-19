@@ -1,4 +1,4 @@
-Diseño de la Solución:
+Completar todas las etapas de la resolución de problemas para un problema simple: la adición de dos números.
 
 ◦ Léxico del Algoritmo.
 
